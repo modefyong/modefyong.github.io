@@ -1,7 +1,7 @@
 module.exports = {
     title: "Fur",
     description: "小僧不才，略懂皮毛",
-    base: "/",
+    base: "modefyong.github.io",
     dest: "dist",
     markdown: {
         lineNumbers: true,
